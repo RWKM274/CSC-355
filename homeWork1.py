@@ -1,7 +1,7 @@
 import numpy as np
 from PIL import Image
 
-WIDTH = 512
+WIDTH = 1024
 HEIGHT = 512
 
 
