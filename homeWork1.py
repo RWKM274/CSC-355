@@ -2,7 +2,7 @@ import numpy as np
 from PIL import Image
 
 WIDTH = 1024
-HEIGHT = 512
+HEIGHT = 1024
 
 
 class Point:
