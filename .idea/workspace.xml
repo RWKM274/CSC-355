@@ -3,11 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="fe649950-9200-417a-ae90-2c95733bc8cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Original.py" beforeDir="false" afterPath="$PROJECT_DIR$/Original.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,12 +32,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="93" />
-    <option name="y" value="23" />
-    <option name="width" value="1347" />
-    <option name="height" value="801" />
-  </component>
   <component name="ProjectId" id="1ibHNSLftEETgTJFEnikYiatDCT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,9 +39,67 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.newVersion">
+    <configuration name="newVersion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSC-355" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newVersion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSC-355" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.newVersion" />
+        <item itemvalue="Python.testFile" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -54,7 +114,8 @@
       <updated>1601926900605</updated>
       <workItem from="1601926901841" duration="237000" />
       <workItem from="1602013142438" duration="17000" />
-      <workItem from="1602169335897" duration="1003000" />
+      <workItem from="1602169335897" duration="4186000" />
+      <workItem from="1602184561850" duration="6888000" />
     </task>
     <task id="LOCAL-00001" summary="try first">
       <created>1601926992741</created>
@@ -70,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601927099648</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Name change">
+      <created>1602171088319</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602171088319</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +146,45 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="try first" />
-    <option name="LAST_COMMIT_MESSAGE" value="try first" />
+    <MESSAGE value="Name change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Name change" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="23" key="CommitChangelistDialog2" timestamp="1602171088132">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="343" y="23" key="CommitChangelistDialog2/0.23.1440.801@0.23.1440.801" timestamp="1602171088132" />
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom" timestamp="1602212373383">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1602212373383" />
+    <state width="1305" height="198" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1602182778916" />
+    <state width="1398" height="198" key="GridCell.Tab.0.center" timestamp="1602212373383">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1602212373383" />
+    <state width="1305" height="198" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1602182778916" />
+    <state width="1398" height="198" key="GridCell.Tab.0.left" timestamp="1602212373382">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1602212373382" />
+    <state width="1305" height="198" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1602182778915" />
+    <state width="1398" height="198" key="GridCell.Tab.0.right" timestamp="1602212373383">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1602212373383" />
+    <state width="1305" height="198" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1602182778916" />
+    <state x="366" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602171094751">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="366" y="150" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1602171094751" />
+    <state x="566" y="289" key="scopes" timestamp="1602171029725">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="566" y="289" key="scopes/0.23.1440.801@0.23.1440.801" timestamp="1602171029725" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CSC_355$testFile.coverage" NAME="testFile Coverage Results" MODIFIED="1602182734149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CSC_355$newVersion.coverage" NAME="newVersion Coverage Results" MODIFIED="1602212373374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
