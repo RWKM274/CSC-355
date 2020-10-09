@@ -60,7 +60,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.testFile">
+  <component name="RunManager" selected="Python.newVersion">
     <configuration name="newVersion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSC-355" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,8 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.testFile" />
         <item itemvalue="Python.newVersion" />
+        <item itemvalue="Python.testFile" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,7 @@
       <workItem from="1602169335897" duration="4186000" />
       <workItem from="1602184561850" duration="6888000" />
       <workItem from="1602254336954" duration="1459000" />
-      <workItem from="1602257250197" duration="4860000" />
+      <workItem from="1602257250197" duration="5030000" />
     </task>
     <task id="LOCAL-00001" summary="try first">
       <created>1601926992741</created>
@@ -165,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602213263766</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Newest change for the code with the image, and comments">
+      <created>1602281810220</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602281810221</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,32 +193,33 @@
     <MESSAGE value="Name change" />
     <MESSAGE value="Original homework file with little changes" />
     <MESSAGE value="Newest change for the code with the image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Newest change for the code with the image" />
+    <MESSAGE value="Newest change for the code with the image, and comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Newest change for the code with the image, and comments" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="343" y="23" key="CommitChangelistDialog2" timestamp="1602213263625">
+    <state x="343" y="23" key="CommitChangelistDialog2" timestamp="1602281810037">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="343" y="23" key="CommitChangelistDialog2/0.23.1440.801@0.23.1440.801" timestamp="1602213263625" />
-    <state width="1398" height="198" key="GridCell.Tab.0.bottom" timestamp="1602272536451">
+    <state x="343" y="23" key="CommitChangelistDialog2/0.23.1440.801@0.23.1440.801" timestamp="1602281810037" />
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom" timestamp="1602281886243">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1602272536451" />
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1602281886243" />
     <state width="1305" height="198" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1602182778916" />
-    <state width="1398" height="198" key="GridCell.Tab.0.center" timestamp="1602272536449">
+    <state width="1398" height="198" key="GridCell.Tab.0.center" timestamp="1602281886242">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1602272536449" />
+    <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1602281886242" />
     <state width="1305" height="198" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1602182778916" />
-    <state width="1398" height="198" key="GridCell.Tab.0.left" timestamp="1602272536449">
+    <state width="1398" height="198" key="GridCell.Tab.0.left" timestamp="1602281886242">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1602272536449" />
+    <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1602281886242" />
     <state width="1305" height="198" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1602182778915" />
-    <state width="1398" height="198" key="GridCell.Tab.0.right" timestamp="1602272536450">
+    <state width="1398" height="198" key="GridCell.Tab.0.right" timestamp="1602281886242">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1602272536450" />
+    <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1602281886242" />
     <state width="1305" height="198" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1602182778916" />
     <state width="1398" height="246" key="GridCell.Tab.1.bottom" timestamp="1602271582000">
       <screen x="0" y="23" width="1440" height="801" />
@@ -233,10 +241,10 @@
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="221" y="62" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1602272766221" />
-    <state x="366" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602213278894">
+    <state x="366" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602281928381">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="366" y="150" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1602213278894" />
+    <state x="366" y="150" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1602281928381" />
     <state x="566" y="289" key="scopes" timestamp="1602171029725">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
@@ -245,6 +253,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CSC_355$homeWork1.coverage" NAME="homeWork1 Coverage Results" MODIFIED="1602212662755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CSC_355$testFile.coverage" NAME="testFile Coverage Results" MODIFIED="1602272536437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CSC_355$newVersion.coverage" NAME="newVersion Coverage Results" MODIFIED="1602212373374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CSC_355$newVersion.coverage" NAME="newVersion Coverage Results" MODIFIED="1602281886232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

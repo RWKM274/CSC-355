@@ -39,7 +39,7 @@ class Point:
         self.x = y
         self.y = x
 
-"find the distance between two point."
+#find the distance between two point.
 
     def distance(self, otherPoint):
         dx = self.x - otherPoint.x
@@ -95,7 +95,7 @@ class CoordinateSystem:
         self.xMax = yMax
         self.yMax = yMax
 
-"Given a point in this system, I have changed the normalize equations."
+#Given a point in this system, I have changed the normalize equations.3
 
     def normalize(self, point):
         x = (point.x - self.xMin) / (self.xMax + self.xMin)
