@@ -4,6 +4,7 @@ from PIL import Image
 WIDTH = 512
 HEIGHT = 512
 
+
 class Point:
     def __init__(self, x, y):
         self.x = y
