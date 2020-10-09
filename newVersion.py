@@ -4,7 +4,7 @@ from PIL import Image
 WIDTH = 512
 HEIGHT = 512
 
-"The code that follows is to create the color that are going to use main"
+"The code that follows is to create the color that are going to use in main"
 x11Colors = {
     "snow": (0xff, 0xfa, 0xfa),
     "GhostWhite": (0xf8, 0xf8, 0xff),
@@ -39,7 +39,7 @@ class Point:
         self.x = y
         self.y = x
 
-#find the distance between two point.
+"find the distance between two point."
 
     def distance(self, otherPoint):
         dx = self.x - otherPoint.x
@@ -69,8 +69,7 @@ class Wave:
         return self.amplitude * np.sin(angle)
 
 
-"This class is to model a collection of waves"
-
+"This class is to model a collection of waves, add all the wave together"
 
 class InterferingWaves:
     def __init__(self):
@@ -96,6 +95,8 @@ class CoordinateSystem:
         self.xMax = yMax
         self.yMax = yMax
 
+"Given a point in this system, I have changed the normalize equations."
+
     def normalize(self, point):
         x = (point.x - self.xMin) / (self.xMax + self.xMin)
         y = (point.y + self.yMin) / (self.yMax + self.yMin)
@@ -119,6 +120,7 @@ class Transform:
 
         return self.destination.scaleAndTranslate(n)
 
+"a function to produce a numpy array"
 
 def normalize(values):
     minimum = values.min()
