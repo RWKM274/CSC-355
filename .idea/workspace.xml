@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fe649950-9200-417a-ae90-2c95733bc8cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newVersion.py" beforeDir="false" afterPath="$PROJECT_DIR$/newVersion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +57,31 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.newVersion">
+  <component name="RunManager" selected="Python.Pillow_study_day1">
+    <configuration name="Pillow_study_day1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSC-355" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pillow_study_day1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="newVersion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSC-355" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,6 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Pillow_study_day1" />
         <item itemvalue="Python.newVersion" />
         <item itemvalue="Python.testFile" />
       </list>
@@ -128,7 +150,9 @@
       <workItem from="1602169335897" duration="4186000" />
       <workItem from="1602184561850" duration="6888000" />
       <workItem from="1602254336954" duration="1459000" />
-      <workItem from="1602257250197" duration="5030000" />
+      <workItem from="1602257250197" duration="5178000" />
+      <workItem from="1602513117199" duration="218000" />
+      <workItem from="1602555427367" duration="3401000" />
     </task>
     <task id="LOCAL-00001" summary="try first">
       <created>1601926992741</created>
@@ -172,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602281810221</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Newest change for the code with the image, and comments and fixed some bugs">
+      <created>1602281975834</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602281975834</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,64 +225,70 @@
     <MESSAGE value="Original homework file with little changes" />
     <MESSAGE value="Newest change for the code with the image" />
     <MESSAGE value="Newest change for the code with the image, and comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Newest change for the code with the image, and comments" />
+    <MESSAGE value="Newest change for the code with the image, and comments and fixed some bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Newest change for the code with the image, and comments and fixed some bugs" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="343" y="23" key="CommitChangelistDialog2" timestamp="1602281810037">
+    <state x="343" y="23" key="CommitChangelistDialog2" timestamp="1602281975722">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="343" y="23" key="CommitChangelistDialog2/0.23.1440.801@0.23.1440.801" timestamp="1602281810037" />
-    <state width="1398" height="198" key="GridCell.Tab.0.bottom" timestamp="1602281886243">
+    <state x="343" y="23" key="CommitChangelistDialog2/0.23.1440.801@0.23.1440.801" timestamp="1602281975722" />
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom" timestamp="1602559224092">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1602281886243" />
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1602559224092" />
     <state width="1305" height="198" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1602182778916" />
-    <state width="1398" height="198" key="GridCell.Tab.0.center" timestamp="1602281886242">
+    <state width="1398" height="198" key="GridCell.Tab.0.center" timestamp="1602559224091">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1602281886242" />
+    <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1602559224091" />
     <state width="1305" height="198" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1602182778916" />
-    <state width="1398" height="198" key="GridCell.Tab.0.left" timestamp="1602281886242">
+    <state width="1398" height="198" key="GridCell.Tab.0.left" timestamp="1602559224090">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1602281886242" />
+    <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1602559224090" />
     <state width="1305" height="198" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1602182778915" />
-    <state width="1398" height="198" key="GridCell.Tab.0.right" timestamp="1602281886242">
+    <state width="1398" height="198" key="GridCell.Tab.0.right" timestamp="1602559224091">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1602281886242" />
+    <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1602559224091" />
     <state width="1305" height="198" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1602182778916" />
-    <state width="1398" height="246" key="GridCell.Tab.1.bottom" timestamp="1602271582000">
+    <state width="1398" height="246" key="GridCell.Tab.1.bottom" timestamp="1602559119283">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="246" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1602271582000" />
-    <state width="1398" height="246" key="GridCell.Tab.1.center" timestamp="1602271582000">
+    <state width="1398" height="246" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1602559119283" />
+    <state width="1398" height="246" key="GridCell.Tab.1.center" timestamp="1602559119283">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="246" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1602271582000" />
-    <state width="1398" height="246" key="GridCell.Tab.1.left" timestamp="1602271581999">
+    <state width="1398" height="246" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1602559119283" />
+    <state width="1398" height="246" key="GridCell.Tab.1.left" timestamp="1602559119283">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="246" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1602271581999" />
-    <state width="1398" height="246" key="GridCell.Tab.1.right" timestamp="1602271582000">
+    <state width="1398" height="246" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1602559119283" />
+    <state width="1398" height="246" key="GridCell.Tab.1.right" timestamp="1602559119283">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="246" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1602271582000" />
-    <state x="221" y="62" key="SettingsEditor" timestamp="1602272766221">
+    <state width="1398" height="246" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1602559119283" />
+    <state x="221" y="62" key="SettingsEditor" timestamp="1602513148028">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state x="221" y="62" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1602272766221" />
-    <state x="366" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602281928381">
+    <state x="221" y="62" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1602513148028" />
+    <state x="366" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602282001392">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="366" y="150" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1602281928381" />
+    <state x="366" y="150" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1602282001392" />
     <state x="566" y="289" key="scopes" timestamp="1602171029725">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="566" y="289" key="scopes/0.23.1440.801@0.23.1440.801" timestamp="1602171029725" />
+    <state x="385" y="148" width="670" height="676" key="search.everywhere.popup" timestamp="1602555690125">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="385" y="148" width="670" height="676" key="search.everywhere.popup/0.23.1440.801@0.23.1440.801" timestamp="1602555690125" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CSC_355$homeWork1.coverage" NAME="homeWork1 Coverage Results" MODIFIED="1602212662755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CSC_355$Pillow_study_day1.coverage" NAME="Pillow_study_day1 Coverage Results" MODIFIED="1602559224081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CSC_355$testFile.coverage" NAME="testFile Coverage Results" MODIFIED="1602272536437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CSC_355$newVersion.coverage" NAME="newVersion Coverage Results" MODIFIED="1602281886232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
